@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">String Counter</string>
+    <string name="run">Run</string>
+</resources>
